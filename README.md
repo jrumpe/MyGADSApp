@@ -9,6 +9,8 @@ concepts that are very important as far as Android Development is concerned.
 In this project, you are going to implement a mobile design of the GADS 2020 Leaderboard.
 The mobile App will display ​Top 20 learners in the Learning Leaders’ category and ​Top 20 learners
 in the Skill IQ Leaders’ category.
+
+
 <img width="940" alt="joint" src="https://user-images.githubusercontent.com/28142244/129281745-b7b0550a-248e-4eea-981c-d2deba6df29b.png">
 
 
